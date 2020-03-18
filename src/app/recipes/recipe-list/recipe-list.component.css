@@ -1,0 +1,10 @@
+app-recipe-item :hover{
+    cursor: pointer;
+    background: red;
+}
+button{
+    padding: 8px;
+    background: green;
+    color: white;
+    margin: 16px;
+}

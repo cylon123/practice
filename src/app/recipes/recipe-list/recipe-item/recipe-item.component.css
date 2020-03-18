@@ -1,0 +1,11 @@
+.recipe-item{
+    padding: 16px;
+    border: 0.5px solid grey;
+    display: flex;
+    margin: 16px;
+    justify-content: space-between;
+}
+.recipe-item-image img{
+    height: 80px;
+    width: 80px;
+}
