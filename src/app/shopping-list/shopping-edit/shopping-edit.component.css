@@ -1,0 +1,26 @@
+form,.buttonDiv{
+    display: flex;
+}
+.nameInput,.amountInput{
+    display: block;
+    margin: 12px 20px; 
+}
+#name,#amount{
+    display: block;
+    margin: 8px 0;
+    padding: 4px;
+}
+label{
+    margin: 0 5px;
+    font-weight: bold;
+}
+.buttonDiv{
+    margin: 12px 12px;
+}
+.buttonDiv button{
+    color: white;
+    padding: 8px 16px;
+    margin: 0 8px;
+    border-radius: 4px;
+    cursor: pointer;
+}
