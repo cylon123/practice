@@ -2,10 +2,10 @@
     display: flex;
 }
 app-recipe-list{
-    width: 70%;
+    width: 60%;
 }
 app-recipe-detail{
-    width: 30%;
+    width: 40%;
 }
 @media (max-width : 1000px){
     .recipes{

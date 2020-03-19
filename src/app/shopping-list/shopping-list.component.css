@@ -1,3 +1,16 @@
 .shopping_list{
     width: 80%;
 }
+.shopping_list ul{
+    padding: 0;
+}
+.shopping_list li{
+    list-style-type: none;
+    padding: 16px;
+    border: 1px solid lightgray;
+    margin: 0;
+    cursor: pointer;
+}
+.shopping_list li:hover{
+    background: darkgrey;
+}
